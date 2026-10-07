@@ -1,0 +1,24 @@
+{
+  "name": "womensafe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mui/material": "^7.3.8",
+    "axios": "^1.13.6",
+    "bcryptjs": "^3.0.3",
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.2.4",
+    "multer": "^2.1.1",
+    "next": "16.1.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  }
+}
