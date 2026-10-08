@@ -102,4 +102,3 @@ Future Improvements
 Conclusion
    The AI-Based Cyber Safety Platform provides a smart and user-friendly solution to detect phishing attacks and online scams. By combining machine learning, OCR technology, and explainable AI, the system helps users identify potential cyber threats and take preventive action.
     This project demonstrates how artificial intelligence can be used to improve digital safety and protect users from cybercrime, especially in an increasingly connected online world.
-    If you want, I can also give you a 🔥 perfect GitHub README structure (with badges, screenshots, installation steps, and demo section) so your repository looks very professional to recruiters and judges.
